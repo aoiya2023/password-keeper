@@ -1,0 +1,10 @@
+2021-08-26 14:32:21.278956 passwordHash Encrypt password request.
+2021-08-26 14:33:22.528797 passwordHash Encrypt password request.
+2021-08-26 14:33:22.541809 storeGlobal GPwd stored
+2021-08-26 14:38:43.545828 genKey Key created
+2021-08-26 15:20:34.512761 countAccounts No accounts found on startup
+2021-08-26 15:20:34.549469 addEntry New account added: ex
+2021-08-26 15:22:13.842695 deleteAccount Account deleted: ex
+2021-08-26 15:23:13.680579 deleteAccount Account deleted: 1
+2021-08-27 00:38:45.062901 countAccounts Found 0 account(s) on startup
+2021-08-27 00:38:45.071864 countAccounts Found 0 account(s) on startup
